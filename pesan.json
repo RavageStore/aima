@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Atifaima Putri",
+    "message": "Thanks for visiting! Leave a comment below 💬",
+    "avatar": "https://i.ibb.co/1TnY8vB/avatar.png",
+    "time": "2025-10-14T12:00:00Z",
+    "like": 3,
+    "pin": true,
+    "reply": [
+      {
+        "replyname": "Daffa",
+        "replymessage": "mantap"
+      }
+    ]
+  },
+  {
+    "name": "Kaizi",
+    "message": "Nice UI design! 🔥",
+    "avatar": "",
+    "time": "2025-10-14T12:15:00Z",
+    "like": 1,
+    "pin": false,
+    "reply": []
+  }
+]
