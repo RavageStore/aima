@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "Daffa",
+    "message": "hi cantik",
+    "avatar": "https://raw.githubusercontent.com/RavageStore/aima/main/image/1760457130025-Daffa.jpg",
+    "time": "2025-10-14T15:52:12.117Z",
+    "like": 0,
+    "pin": false,
+    "reply": []
+  }
+]
